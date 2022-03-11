@@ -1,5 +1,5 @@
 {
-  "name": "polar-assets",
+  "name": "gix-polar-assets",
   "version": "2.1.56",
   "description": "",
   "scripts": {
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/burtonator/polar-app-public.git"
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-polar-app-public.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/burtonator/polar-app-public/issues"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-polar-app-public/issues"
   },
-  "homepage": "https://github.com/burtonator/polar-app-public",
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-polar-app-public",
   "type": "images",
   "files": [
     "**/*.svg",
