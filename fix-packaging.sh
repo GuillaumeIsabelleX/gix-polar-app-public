@@ -11,12 +11,14 @@ for d in *; do
     echo "$d"
     cd "$d"
     sed -i 's/'"$d"'/gix-'"$d"'/' package.json
-    sed -i 's/burtonator/GuillaumeIsabelleX/' package.json
     sed -i 's/polar-app-public/gix-polar-app-public/' package.json
-    sed -i 's/polar-karma/gix-polar-karma/' package.json
-    sed -i 's/polar-test/gix-polar-test/' package.json
-    sed -i 's/polar-shared/gix-polar-shared/' package.json
-    sed -i 's/polar-dom-text-search/gix-polar-dom-text-search/' package.json
+
+    # sed -i 's/burtonator/GuillaumeIsabelleX/' package.json
+    # sed -i 's/polar-karma/gix-polar-karma/' package.json
+    # sed -i 's/polar-test/gix-polar-test/' package.json
+    # sed -i 's/polar-shared/gix-polar-shared/' package.json
+    # sed -i 's/polar-dom-text-search/gix-polar-dom-text-search/' package.json
+    . /usr/src/gix-rrai/redist-sedder.sh
 
     cd $cdir
   fi
