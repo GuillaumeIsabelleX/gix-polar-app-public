@@ -1,5 +1,5 @@
 {
-  "name": "polar-webpack",
+  "name": "gix-polar-webpack",
   "version": "2.1.56",
   "description": "Basic webpack dependencies and utilities.",
   "scripts": {

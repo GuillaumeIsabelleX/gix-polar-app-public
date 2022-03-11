@@ -1,5 +1,5 @@
 {
-  "name": "polar-html",
+  "name": "gix-polar-html",
   "version": "2.1.56",
   "description": "",
   "scripts": {
@@ -15,7 +15,7 @@
     "@types/sanitize-html": "=1.27.0",
     "chai": "4.2.0",
     "mocha": "=8.2.1",
-    "polar-test": "^2.1.56",
+    "gix-polar-test": "^2.1.56",
     "tslint": "6.1.2",
     "typescript": "=4.2.3"
   },

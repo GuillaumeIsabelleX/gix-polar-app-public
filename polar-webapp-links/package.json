@@ -1,5 +1,5 @@
 {
-  "name": "polar-webapp-links",
+  "name": "gix-polar-webapp-links",
   "version": "2.1.56",
   "description": "",
   "main": "index.js",
@@ -16,12 +16,12 @@
     "@types/node": "=14.14.35",
     "chai": "4.2.0",
     "mocha": "=8.2.1",
-    "polar-test": "^2.1.56",
+    "gix-polar-test": "^2.1.56",
     "tslint": "6.1.2",
     "typescript": "=4.2.3"
   },
   "dependencies": {
-    "polar-shared": "^2.1.56",
+    "gix-polar-shared": "^2.1.56",
     "polar-url": "^2.1.56"
   },
   "files": [

@@ -1,5 +1,5 @@
 {
-  "name": "polar-url",
+  "name": "gix-polar-url",
   "version": "2.1.56",
   "description": "URL parsing framework that's portable to Node 8, 10, etc.",
   "scripts": {
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/burtonator/polar-shared.git"
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-polar-shared.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/burtonator/polar-shared/issues"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-polar-shared/issues"
   },
-  "homepage": "https://github.com/burtonator/polar-shared#readme",
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-polar-shared#readme",
   "devDependencies": {
     "@types/chai": "4.2.11",
     "@types/mocha": "=8.0.4",
     "chai": "4.2.0",
     "mocha": "=8.2.1",
-    "polar-test": "^2.1.56",
+    "gix-polar-test": "^2.1.56",
     "tslint": "6.1.2",
     "typescript": "=4.2.3"
   },

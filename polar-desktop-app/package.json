@@ -1,5 +1,5 @@
 {
-  "name": "polar-desktop-app",
+  "name": "gix-polar-desktop-app",
   "version": "2.1.56",
   "description": "Polar",
   "main": "./main-bundle.js",
@@ -11,7 +11,7 @@
     "dist-win": "npx webpack && ./build/dist-win.sh",
     "verify-electron-version": "./scripts/verify-electron-version"
   },
-  "repository": "https://github.com/burtonator/polar-app-public",
+  "repository": "https://github.com/GuillaumeIsabelleX/gix-polar-app-public",
   "keywords": [
     "Electron",
     "PDF",
@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "polar-bookshelf": "^2.1.56",
-    "polar-shared": "^2.1.56"
+    "gix-polar-shared": "^2.1.56"
   },
   "collective": {
     "type": "opencollective",

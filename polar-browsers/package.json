@@ -1,5 +1,5 @@
 {
-  "name": "polar-browsers",
+  "name": "gix-polar-browsers",
   "version": "2.1.56",
   "description": "Determine which browser is being used.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/mocha": "=8.0.4",
     "mocha": "=8.2.1",
-    "polar-test": "^2.1.56",
+    "gix-polar-test": "^2.1.56",
     "tslint": "6.1.2",
     "typescript": "=4.2.3"
   },

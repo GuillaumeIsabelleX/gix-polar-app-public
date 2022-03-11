@@ -1,5 +1,5 @@
 {
-  "name": "polar-markdown-parser",
+  "name": "gix-polar-markdown-parser",
   "version": "2.1.56",
   "description": "Provides support for parsing and working with markdown",
   "scripts": {
