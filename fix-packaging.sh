@@ -18,7 +18,7 @@ for d in *; do
     # sed -i 's/polar-test/gix-polar-test/' package.json
     # sed -i 's/polar-shared/gix-polar-shared/' package.json
     # sed -i 's/polar-dom-text-search/gix-polar-dom-text-search/' package.json
-    . /usr/src/gix-rrai/redist-sedder.sh
+    . /c/usr/src/gix-rrai/redist-sedder.sh
 
     cd $cdir
   fi
