@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-epub-generator",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

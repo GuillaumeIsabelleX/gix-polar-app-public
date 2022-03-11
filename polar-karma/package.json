@@ -1,6 +1,6 @@
 {
-  "name": "gix-gix-polar-karma",
-  "version": "2.1.56",
+  "name": "gix-polar-karma",
+  "version": "4.0.0",
   "description": "Basic webpack dependencies and utilities.",
   "scripts": {
     "test": "echo",

@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-page-metadata-parser",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Parses metadata for pages from the DOM",
   "main": "index.js",
   "scripts": {

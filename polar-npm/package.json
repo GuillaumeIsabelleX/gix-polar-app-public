@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-npm",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Basic internal NPM commnds",
   "main": "index.js",
   "scripts": {

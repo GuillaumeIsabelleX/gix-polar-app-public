@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-mocha",
-  "version": "2.1.57",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

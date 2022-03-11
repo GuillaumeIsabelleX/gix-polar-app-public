@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-search-api",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Provides just the basic API that we can use in both the frontend and backend for API requests and responses.",
   "main": "index.js",
   "scripts": {

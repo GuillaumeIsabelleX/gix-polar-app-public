@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-text-highlighter",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Provides a way to highlight text reliably/portably",
   "scripts": {
     "test": "mocha --timeout 20000 --exit 'src/**/*Test.js'",

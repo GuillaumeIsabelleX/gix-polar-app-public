@@ -1,6 +1,6 @@
 {
-  "name": "gix-gix-polar-assets",
-  "version": "2.1.56",
+  "name": "gix-polar-assets",
+  "version": "4.0.0",
   "description": "",
   "scripts": {
     "test": "echo no tests",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuillaumeIsabelleX/gix-gix-polar-app-public.git"
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-polar-app-public.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuillaumeIsabelleX/gix-gix-polar-app-public/issues"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-polar-app-public/issues"
   },
-  "homepage": "https://github.com/GuillaumeIsabelleX/gix-gix-polar-app-public",
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-polar-app-public",
   "type": "images",
   "files": [
     "**/*.svg",

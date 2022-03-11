@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-exporters",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Provides APIs and an implementation of exporters for Polar data",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-backend-api",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Provides request/response APIs and types used between the frontend and backend.",
   "main": "index.js",
   "scripts": {

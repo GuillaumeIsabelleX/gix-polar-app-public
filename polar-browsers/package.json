@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-browsers",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Determine which browser is being used.",
   "main": "index.js",
   "scripts": {

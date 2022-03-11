@@ -1,6 +1,6 @@
 {
-  "name": "gix-gix-polar-shared",
-  "version": "2.1.56",
+  "name": "gix-polar-shared",
+  "version": "4.0.0",
   "description": "",
   "scripts": {
     "test": "mocha --timeout 20000 --exit 'src/**/*Test.js'",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuillaumeIsabelleX/gix-gix-polar-shared.git"
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-polar-shared.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuillaumeIsabelleX/gix-gix-polar-shared/issues"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-polar-shared/issues"
   },
-  "homepage": "https://github.com/GuillaumeIsabelleX/gix-gix-polar-shared#readme",
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-polar-shared#readme",
   "devDependencies": {
     "@types/chai": "4.2.11",
     "@types/mocha": "=8.0.4",

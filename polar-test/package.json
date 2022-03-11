@@ -1,6 +1,6 @@
 {
-  "name": "gix-gix-polar-test",
-  "version": "2.1.56",
+  "name": "gix-polar-test",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

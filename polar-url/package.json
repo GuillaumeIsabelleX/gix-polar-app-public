@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-url",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "URL parsing framework that's portable to Node 8, 10, etc.",
   "scripts": {
     "test": "mocha --timeout 20000 --exit 'src/**/*Test.js'",

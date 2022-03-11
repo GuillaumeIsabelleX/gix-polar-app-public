@@ -13,10 +13,11 @@ for d in *; do
     echo "$d"
     cd "$d"
     echo "-----$d-----" >> _log
-    npm install && echo "Install ok" >> _log || \
+    npm install &> /dev/null && echo "Install ok" >> _log || \
     (echo "Install Failed" >> _log && sleep 3)  && \
-    npm publish && echo "Publish ok" >> _log|| \
+    npm version minor && npm publish && echo "Publish ok" >> _log|| \
     (echo "Publish Failed" >> _log && sleep 3)
+    #npm version major && npm version major
     cd $cdir
   fi
 done

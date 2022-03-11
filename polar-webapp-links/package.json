@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-webapp-links",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "gix-polar-shared": "^2.1.56",
-    "polar-url": "^2.1.56"
+    "gix-polar-url": "^2.1.56"
   },
   "files": [
     "**/*.js",

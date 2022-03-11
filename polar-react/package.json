@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-react",
-  "version": "2.1.56",
+  "version": "4.0.0",
   "description": "Basic React dependencies and utilities.",
   "scripts": {
     "test": "echo",
