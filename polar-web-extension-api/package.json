@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-web-extension-api",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Provides just the basic API that we can use in both the frontend and backend for API requests and responses.",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "gix-polar-webpack",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Basic webpack dependencies and utilities.",
   "scripts": {
     "test": "echo",

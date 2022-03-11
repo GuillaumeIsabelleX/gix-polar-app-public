@@ -18,6 +18,7 @@ for d in *; do
     npm version minor && npm publish && echo "Publish ok" >> _log|| \
     (echo "Publish Failed" >> _log && sleep 3)
     #npm version major && npm version major
+    cat _log >> ../_log
     cd $cdir
   fi
 done
