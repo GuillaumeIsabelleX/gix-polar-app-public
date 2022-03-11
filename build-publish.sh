@@ -14,9 +14,9 @@ for d in *; do
     cd "$d"
     echo "-----$d-----" >> _log
     npm install && echo "Install ok" >> _log || \
-    echo "Install Failed" >> _log  && \
+    (echo "Install Failed" >> _log && sleep 3)  && \
     npm publish && echo "Publish ok" >> _log|| \
-    echo "Publish Failed" >> _log
+    (echo "Publish Failed" >> _log && sleep 3)
     cd $cdir
   fi
 done

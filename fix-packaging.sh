@@ -15,6 +15,7 @@ for d in *; do
     sed -i 's/polar-app-public/gix-polar-app-public/' package.json
     sed -i 's/polar-karma/gix-polar-karma/' package.json
     sed -i 's/polar-test/gix-polar-test/' package.json
+    sed -i 's/polar-shared/gix-polar-shared/' package.json
 
     cd $cdir
   fi
